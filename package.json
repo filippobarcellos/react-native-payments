@@ -12,10 +12,7 @@
     "test": "jest"
   },
   "homepage": "https://github.com/appfolio/react-native-payments",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/appfolio/react-native-payments.git"
-  },
+  "repository": "https://github.com/naoufal/react-native-payments",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
